@@ -1,4 +1,4 @@
-package learnjava;
+package learnjava.basic;
 
 public class pattern1 {
     public static void main(String [] args){
